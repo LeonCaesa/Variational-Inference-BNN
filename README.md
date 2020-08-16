@@ -1,6 +1,6 @@
 # Variational-Inference-BNN
 
-Project for MA 751 Final
+Project for [MA 751](https://www.bu.edu/academics/grs/courses/grs-ma-751/) Final
 
 
 Implemented Variational BNN by following the idea of [Practical Variational Inference for Neural Networks (2011)](https://papers.nips.cc/paper/4329-practical-variational-inference-for-neural-networks).
